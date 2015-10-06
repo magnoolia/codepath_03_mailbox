@@ -15,3 +15,5 @@ Optionals:
 --if menu is being hidden on release, continue to hide
 
 & upper left button to return to feed
+
+mag_wk3_mailbox_2.gif
